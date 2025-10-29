@@ -35,7 +35,9 @@ body {
   z-index: 10;
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
 }
-.second-hand {
+
+/* Corrected seconds hand selector */
+.secs-hand {
   width: 2px;
   height: 145px;
   background: #ff416c;
@@ -43,14 +45,16 @@ body {
   z-index: 15;
 }
 
-.min-hand {
+/* Corrected minutes hand selector */
+.mins-hand {
   width: 5px;
   height: 125px;
   background: #e0e0e0;
   z-index: 12;
 }
 
-.hour-hand {
+/* Corrected hour hand selector */
+.hours-hand {
   width: 8px;
   height: 95px;
   background: #e0e0e0;
