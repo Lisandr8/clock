@@ -76,3 +76,8 @@ body {
   z-index: 20;
   box-shadow: 0 0 10px rgba(255, 65, 108, 0.6);
 }
+
+h1 {
+  color: #ff416c;
+  font-weight: 500;
+}
